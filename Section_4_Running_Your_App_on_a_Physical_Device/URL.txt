@@ -1,0 +1,4 @@
+https://docs.flutter.dev/get-started/install/macos#deploy-to-ios-devices
+https://brew.sh/
+https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62
+https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08

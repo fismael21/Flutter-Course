@@ -1,0 +1,6 @@
+https://m3.material.io/
+https://m2.material.io/design/color/the-color-system.html#color-usage-and-palettes
+https://app.diagrams.net/
+https://dart.dev/tools/pub/pubspec
+https://docs.flutter.dev/development/ui/assets-and-images
+https://api.flutter.dev/flutter/widgets/Image-class.html
