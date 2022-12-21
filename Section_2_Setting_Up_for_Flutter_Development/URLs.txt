@@ -1,0 +1,5 @@
+https://docs.flutter.dev/get-started/install
+https://git-scm.com/download/win
+https://desktop.github.com/
+https://developer.android.com/studio
+https://docs.flutter.dev/get-started/install/macos#ios-setup
